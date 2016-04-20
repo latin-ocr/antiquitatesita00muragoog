@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antiquitatesita00muragoog_0006.png"; bbox 0 0 4214 6014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 1764 1844 2389">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 1764 1844 2389">
+     <span class='ocr_line' id='line_1_1' title="bbox 201 1764 1844 1985; baseline -0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 201 1764 1035 1981; x_wconf 77' lang='lat' dir='ltr'>LUD0v1cl</span> <span class='ocrx_word' id='word_1_2' title='bbox 1133 1764 1844 1985; x_wconf 78' lang='lat' dir='ltr'>ANTONH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 118 2232 1498 2389; baseline 0.001 -10"><span class='ocrx_word' id='word_1_3' title='bbox 118 2268 124 2279; x_wconf 83' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 236 2362 239 2367; x_wconf 69' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 559 2236 650 2379; x_wconf 94' lang='grc' dir='ltr'><strong>Μ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 690 2236 766 2385; x_wconf 93' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_7' title='bbox 809 2236 886 2385; x_wconf 89' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_8' title='bbox 924 2236 1000 2389; x_wconf 82' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1037 2236 1114 2385; x_wconf 91' lang='grc' dir='ltr'><strong>Τ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1150 2234 1224 2383; x_wconf 94' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_11' title='bbox 1262 2232 1340 2385; x_wconf 91' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_12' title='bbox 1380 2234 1498 2381; x_wconf 90' lang='lat'><em>11</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 2622 1676 2815">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 2622 1676 2815">
+     <span class='ocr_line' id='line_1_3' title="bbox 363 2622 1676 2815; baseline -0.002 -12"><span class='ocrx_word' id='word_1_13' title='bbox 363 2622 952 2815; x_wconf 79' lang='lat' dir='ltr'><em>OPERA</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1066 2622 1676 2810; x_wconf 78' lang='lat' dir='ltr'><em>OMNIA.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2112 6004">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2112 6004">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2112 6004; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2112 6004; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
